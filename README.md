@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **robertocamberos12@gmail.com**
 
-- 📄 Know about my experiences [https://robertocamberos.github.io/resumeRobertoCamberos.pdf](https://robertocamberos.github.io/resumeRobertoCamberos.pdf)
+- 📄 Know about my experiences [https://robertocamberos.github.io/resumeRobertoCamberos.docx.pdf](https://robertocamberos.github.io/resumeRobertoCamberos.docx.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
