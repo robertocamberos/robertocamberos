@@ -125,11 +125,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Litmus, MailChimp</strong></p>
-		    <p>This project showcases a meticulously crafted newsletter email for a company marketing various products. I employed HTML and CSS for structure and styling, leveraging Litmus for testing and ensuring the email's responsiveness across multiple devices and email clients. The final distribution was done via MailChimp, taking advantage of its robust features for effective email marketing.
-
-The email design presents diverse product sections, a compelling call to action, and a visually engaging layout, offering readers an interactive, dynamic experience. Noteworthy features include 'View Demo', 'Learn More', and 'Read More' interactive buttons, customer testimonials, a 'Contact Us' section, and social media links.
-
-As an embodiment of my grasp of modern email development best practices, this project serves as a testament to my skills in creating responsive HTML email templates and my proficiency with tools like Litmus and MailChimp.</p>
+		    <p>Crafted a responsive newsletter email using HTML, CSS, Litmus, and MailChimp. The email features product sections, compelling calls to action, customer testimonials, and contact info, demonstrating my skills in modern email development best practices.</p>
                 </div>	
             </td>
         </tr>
