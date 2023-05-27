@@ -1,5 +1,5 @@
 <!-- <div id="" align="center">
-   <img src="" width="100%"/> 
+   <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/Copy%20of%20Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.jpg" width="100%"/> 
 </div> -->
 <h1 align="center">Hi 👋, I'm Roberto Camberos</h1>
 <h3 align="center">A Content Editor and HTML Email Developer</h3>
