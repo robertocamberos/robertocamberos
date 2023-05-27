@@ -61,9 +61,9 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>Shopify, Liquid</strong></p>
           <p>
-						Description goes here
+						This project involves crafting an immersive Shopify site for 'Galaxy Box Shop', an ecommerce store. The site features a captivating design with product highlights, customer testimonials, and company information. This project exhibits my capability to build intuitive, engaging ecommerce experiences on the Shopify platform.
 					</p>
 				</div>
 			</td>
@@ -83,8 +83,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>Wordpress</strong></p>
+					<p>In this project, I created a sleek and comprehensive WordPress site for 'RCProduction', a digital agency. The site encompasses service offerings, client testimonials, project showcase, and details about the agency. A testament to my ability to develop engaging WordPress sites from the ground up.</p>
 				</div>
         </tr>
 	    <tr>
@@ -105,7 +105,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+		    <p>This project is a clean and interactive landing page for 'Easybank', a next-generation digital banking platform. The page, built with HTML and CSS, effectively presents the platform's features, latest articles, and encourages users to request an invite. This showcases my proficiency in crafting engaging and responsive landing pages from scratch.</p>
                 </div>
             </td>
             <td width="50%">
@@ -124,8 +124,12 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, Litmus, MailChimp</strong></p>
+		    <p>This project showcases a meticulously crafted newsletter email for a company marketing various products. I employed HTML and CSS for structure and styling, leveraging Litmus for testing and ensuring the email's responsiveness across multiple devices and email clients. The final distribution was done via MailChimp, taking advantage of its robust features for effective email marketing.
+
+The email design presents diverse product sections, a compelling call to action, and a visually engaging layout, offering readers an interactive, dynamic experience. Noteworthy features include 'View Demo', 'Learn More', and 'Read More' interactive buttons, customer testimonials, a 'Contact Us' section, and social media links.
+
+As an embodiment of my grasp of modern email development best practices, this project serves as a testament to my skills in creating responsive HTML email templates and my proficiency with tools like Litmus and MailChimp.</p>
                 </div>	
             </td>
         </tr>
