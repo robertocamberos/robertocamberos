@@ -26,19 +26,14 @@
 <!--                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/> -->
 <!--                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/>  -->
 <!--                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/>  -->
-                      <img src="https://cdn.worldvectorlogo.com/logos/responsive-design.svg" alt="responsive design" width="75" height="75"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="75" height="75"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/litmus.svg" alt="litmus" width="75" height="75"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/mailchimp.svg" alt="mailchimp" width="75" height="75"/>
-			    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/responsive-design-image.png" alt="ALT_TEXT" width="75" height="75"/>
-			    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/mailchimp-photo-portfolio.png" alt="ALT_TEXT" width="75" height="75"/>
-			    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/mailchimp-photo-portfolio-removebg-preview.png" alt="ALT_TEXT" width="75" height="75"/>
+			    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/mailchimp-photo-portfolio-removebg-preview.png" alt="" width="75" height="75"/>
 
 
-                    </div>
+<!--                     </div> -->
 </div>
 
 <br>
