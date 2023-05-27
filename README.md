@@ -91,7 +91,7 @@
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://landingpage.pics/' target="_blank">
                         <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/third-project.jpg" alt="project 3" height="100%" />
                     </a>
                     <br>
