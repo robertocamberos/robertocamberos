@@ -104,7 +104,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
+                    <p><strong>HTML, CSS</strong></p>
 		    <p>This project is a clean and interactive landing page for 'Easybank', a next-generation digital banking platform. The page, built with HTML and CSS, effectively presents the platform's features, latest articles, and encourages users to request an invite. This showcases my proficiency in crafting engaging and responsive landing pages from scratch.</p>
                 </div>
             </td>
