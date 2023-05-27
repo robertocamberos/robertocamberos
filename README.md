@@ -140,12 +140,14 @@
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
-	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/robertocamber2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-	
-<a href="https://www.linkedin.com/in/roberto-camberos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-
+    <a href="https://twitter.com/robertocamber2" target="blank" style="margin-right: 20px;">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/roberto-camberos/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" />
+    </a>
 </p>
+
 
 <hr>
 
@@ -156,10 +158,10 @@
 <h2 align="center">Stats</h2>
 <h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joesantosgarcia&show_icons=true&locale=en&layout=compact" alt="codingphasedotcom" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertocamberos&show_icons=true&locale=en&layout=compact" alt="robertocamberos" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joesantosgarcia&show_icons=true&locale=en" alt="codingphasedotcom" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertocamberos&show_icons=true&locale=en" alt="robertocamberos" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joesantosgarcia&" alt="codingphasedotcom" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertocamberos&" alt="robertocamberos" /></p>
 </div>
 <br>
