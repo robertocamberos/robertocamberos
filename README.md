@@ -48,16 +48,16 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://galaxy-box-shop-6.myshopify.com/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVJuWVd4aGVIa3RZbTk0TFhOb2IzQXROaTV0ZVhOb2IzQnBabmt1WTI5dEJqb0dSVlE9IiwiZXhwIjoiMjAyMy0wNS0yMVQxNzo0ODo0MC4yMDBaIiwicHVyIjoicGVybWFuZW50X3Bhc3N3b3JkX2J5cGFzcyJ9fQ%3D%3D--0e74504e3e9698ee6c85b1e36a1a941de9b54a57' target="_blank">
 						<img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://galaxy-box-shop-6.myshopify.com/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVJuWVd4aGVIa3RZbTk0TFhOb2IzQXROaTV0ZVhOb2IzQnBabmt1WTI5dEJqb0dSVlE9IiwiZXhwIjoiMjAyMy0wNS0yMVQxNzo0ODo0MC4yMDBaIiwicHVyIjoicGVybWFuZW50X3Bhc3N3b3JkX2J5cGFzcyJ9fQ%3D%3D--0e74504e3e9698ee6c85b1e36a1a941de9b54a57" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://galaxy-box-shop-6.myshopify.com/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVJuWVd4aGVIa3RZbTk0TFhOb2IzQXROaTV0ZVhOb2IzQnBabmt1WTI5dEJqb0dSVlE9IiwiZXhwIjoiMjAyMy0wNS0yMVQxNzo0ODo0MC4yMDBaIiwicHVyIjoicGVybWFuZW50X3Bhc3N3b3JkX2J5cGFzcyJ9fQ%3D%3D--0e74504e3e9698ee6c85b1e36a1a941de9b54a57" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
