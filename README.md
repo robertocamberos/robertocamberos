@@ -49,7 +49,7 @@
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
+						<img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
