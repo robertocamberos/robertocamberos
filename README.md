@@ -34,6 +34,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/mailchimp.svg" alt="mailchimp" width="75" height="75"/>
 			    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/responsive-design-image.png" alt="ALT_TEXT" width="75" height="75"/>
+			    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/mailchimp-photo-portfolio.png" alt="ALT_TEXT" width="75" height="75"/>
 
 
                     </div>
