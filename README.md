@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Roberto Camberos</h1>
 <h3 align="center">A Email Marketing Specialist</h3>
-<h4 align="center">As a **Email Marketing Specialist**, I combine creativity with technical proficiency to develop high-converting email campaigns. With expertise in tools like MailChimp, Litmus, HTML, and CSS, I'm passionate about driving customer engagement and loyalty. With over a year of professional experience, I've honed my skills in SEO, Content Management Systems, Adobe XD, Data Analysis, HTML/CSS, WordPress, Google Analytics, Social Media Marketing, and Project Management. </h4>
+<h4 align="center">As a Email Marketing Specialist, I combine creativity with technical proficiency to develop high-converting email campaigns. With expertise in tools like MailChimp, Litmus, HTML, and CSS, I'm passionate about driving customer engagement and loyalty. With over a year of professional experience, I've honed my skills in SEO, Content Management Systems, Adobe XD, Data Analysis, HTML/CSS, WordPress, Google Analytics, Social Media Marketing, and Project Management. </h4>
 
 <hr>
 
