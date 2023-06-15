@@ -2,7 +2,7 @@
    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/Copy%20of%20Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.jpg" width="100%"/> 
 </div>
 <h1 align="center">Hi 👋, I'm Roberto Camberos</h1>
-<h3 align="center">A Content Editor and HTML Email Developer</h3>
+<h3 align="center">A Email Marketing Specialist</h3>
 <h4 align="center">Hello World! 👋 I'm a dynamic Content Editor and HTML Email Developer, committed to shaping compelling narratives and building interactive email experiences. With a meticulous eye for detail, I marry my love for words and coding to bring visually striking and meaningful interactions to life. Ready to turn coffee and code into impactful digital stories. Let's collaborate! 🌐🚀 </h4>
 
 <hr>
