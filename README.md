@@ -48,8 +48,8 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://galaxy-box-shop-6.myshopify.com/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVJuWVd4aGVIa3RZbTk0TFhOb2IzQXROaTV0ZVhOb2IzQnBabmt1WTI5dEJqb0dSVlE9IiwiZXhwIjoiMjAyMy0wNS0yMVQxNzo0ODo0MC4yMDBaIiwicHVyIjoicGVybWFuZW50X3Bhc3N3b3JkX2J5cGFzcyJ9fQ%3D%3D--0e74504e3e9698ee6c85b1e36a1a941de9b54a57](https://github.com/robertocamberos/robertocamberos/blob/main/assets/first-github-shopify.png?raw=true)' target="_blank">
-						<img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+					<a href='' target="_blank">
+						<img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/first-github-shopify.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -71,7 +71,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='http://rcproduction.online/' target="_blank">
-						<img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/second-project.png" alt="project 2" height="100%" />
+						<img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/second-github-wordpress.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -112,7 +112,7 @@
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
                     <a href='https://robertocamberos.com/newsletter.html' target="_blank">
-                        <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/fourth-project.jpg" alt="project 4" height="100%" />
+                        <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/fourth-github-email.jpg" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
