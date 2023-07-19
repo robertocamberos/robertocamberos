@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Roberto Camberos</h1>
 <h3 align="center">Content Editor</h3>
-<h4 align="center">As a Email Marketing Specialist, I combine creativity with technical proficiency to develop high-converting email campaigns. With expertise in tools like MailChimp, Litmus, HTML, and CSS, I'm passionate about driving customer engagement and loyalty. With over a year of professional experience, I've honed my skills in SEO, Content Management Systems, Adobe XD, Data Analysis, HTML/CSS, WordPress, Google Analytics, Social Media Marketing, and Project Management. </h4>
+<h4 align="center">Experienced Content Editor and E-commerce Developer with a knack for creating compelling Shopify and WordPress sites. My work combines technical skills with a deep understanding of SEO, data analysis, and storytelling. Always learning, always improving. If you value quality digital content and a data-driven approach, let's connect!</h4>
 
 <hr>
 
