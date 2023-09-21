@@ -2,8 +2,8 @@
    <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/Content-Editor-Copy%20of%20Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png" width="100%"/> 
 </div>
 <h1 align="center">Hi 👋, I'm Roberto Camberos</h1>
-<h3 align="center">Content Editor</h3>
-<h4 align="center">Experienced Content Editor and E-commerce Developer with a knack for creating compelling Shopify and WordPress sites. My work combines technical skills with a deep understanding of SEO, data analysis, and storytelling. Always learning, always improving. If you value quality digital content and a data-driven approach, let's connect!</h4>
+<h3 align="center">Email Developer</h3>
+<h4 align="center">Klaviyo product certified Email Developer specializing in crafting responsive HTML email templates. Experienced in creating email marketing automation campaigns and onboarding processes on multiple email service provider platforms. Showcased expertise in conducting thorough end-to-end quality assurance testing, employing Litmus and Email on Acid to ensure emails render correctly across multiple mobile devices and email clients.</h4>
 
 <hr>
 
