@@ -1,5 +1,5 @@
 <div id="" align="center">
-   <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/Content-Editor-Copy%20of%20Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png" width="100%"/> 
+   <img src="https://github.com/robertocamberos/robertocamberos/blob/main/assets/Copy%20of%20Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png" width="100%"/> 
 </div>
 <h1 align="center">Hi 👋, I'm Roberto Camberos</h1>
 <h3 align="center">Email Developer</h3>
